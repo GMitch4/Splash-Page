@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  
+}
+
+.splash {
+  height: 100vh;
+  background: repeating-linear-gradient(45deg, #75C737 20% 25%, #FECA56 25% 30%, #F76c26 30% 35%, #0f715a 35% 40%, #Fbf642 40% 45%,#fea347 45% 50%);
+  display: flex;
+ 
+}
+
+h1 {
+  font-family: "Taviraj", serif;
+  font-style: bolder;
+  font-size: 82px;
+  color: #fbf642;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  
+
+
+ 
+
+
+  
+  
+}
+
+p {
+  font-family: "lato", sans-serif;
+  font-size: 45px;
+  color: #fbf642;
+ 
+ 
+  
+
+}
